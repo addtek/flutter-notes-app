@@ -1,6 +1,6 @@
 # QuickNotes
 
-A new Flutter project.
+A Flutter App for taking notes.
 
 ## Getting Started
 
