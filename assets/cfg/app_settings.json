@@ -1,0 +1,10 @@
+{
+    "xmlBiblePathKJV": "resources/kjv.xml",
+    "xmlBiblePathESV": "resources/esv.xml",
+    "xmlBiblePathNIV": "resources/niv.xml",
+    "multipartXmlBiblePathNIV": "resources/xml/niv/",
+    "multipartXmlBiblePathKJV": "resources/xml/kjv/",
+    "multipartXmlBiblePathESV": "resources/xml/esv/",
+    "multipartXmlBiblePath": "resources/xml/",
+    "bibleReferencePath": "resources/raw/refs_"
+  }
